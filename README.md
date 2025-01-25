@@ -1,2 +1,2 @@
-# PowerBi-dashbords
-Dashbords that i did during PowerBi learning journey
+# PowerBi-dashboards
+Dashboards that i did during PowerBi learning journey
